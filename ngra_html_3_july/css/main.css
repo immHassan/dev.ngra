@@ -1,0 +1,23 @@
+.ec-mini-header {
+	background: url(../images/about-01.jpg);
+}
+.ec-form form p textarea {
+	resize: none;
+}
+.ec-full-counter {
+	background: url(../images/about-02.jpg);
+}
+.ec-fixture-detail .ec-latest-result {
+	background: url(../images/result-01.jpg);
+}
+.ec-result-time {
+    background: -moz-linear-gradient(left, #FFF 50%, #dbbf2c 0%);
+    background: -webkit-linear-gradient(left, #FFF 50%,#b30007 0%);
+    background: linear-gradient(to right, #FFF 50%,#b30007 0%);
+}
+.ec-pagination li a {
+    padding: 1px 12px 1px 12px;
+}
+.ball-scale-multiple > div {
+    border: 2px solid #b30007;
+}

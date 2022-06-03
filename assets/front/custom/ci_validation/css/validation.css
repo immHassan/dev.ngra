@@ -1,0 +1,16 @@
+    .help-block{
+        background-color: #dfabab;
+        color: #660d0d;
+    }
+
+
+    .help-block {
+        display: block;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        color: #660d0d;
+        font-size: 12px !important;
+        text-transform: none !important;
+        padding:2rem !important;
+        border-radius: 5px;
+    }
